@@ -89,19 +89,19 @@ widgets/
 
 ## Screenshots
 
-Authentication:
+Authentication:<br/>
 <img src="screenshots/1.png" width="400"> 
 
-Overview of all videos:
+Overview of all videos:<br/>
 <img src="screenshots/2.png" width="400"> 
 
-Video player page with related videos (by tags) and comment box:
+Video player page with related videos (by tags) and comment box:<br/>
 <img src="screenshots/3.png" width="400">
 
-Fields validation:
+Fields validation:<br/>
 <img src="screenshots/4.png" width="400">
 
-User info:
+User info:<br/>
 <img src="screenshots/5.png" width="400">
 
 ## Overview
