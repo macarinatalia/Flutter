@@ -4,7 +4,7 @@ A video browser project created in Flutter using free stock videos from [Pixabay
 
 ## Getting Started
 
-This application allows user to browse videos, to play selected video and to show relative videos.
+This application allows user to browse videos, to play selected video and to show relative videos. The login and password can be any, but not null.
 
 ## Supported Platforms
 
