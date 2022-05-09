@@ -106,7 +106,7 @@ User info:<br/>
 
 ## Overview
 
-<img src="screenshots/video.mov" height="400">
+<img src="screenshots/video.gif" height="400">
 
 
 ## License
